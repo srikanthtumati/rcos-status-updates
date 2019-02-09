@@ -1,23 +1,22 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
+I began making myself familiar with PyTest and started creating appropriate tests for the web scraping portion of the projects. 
 
-> This past week, I was able to implement the the dialog box for creating a new user in the front end. I \
-> learned how to send requests in JavaScript to the backend API.
+Additionally, I began writing a tutorial for PyTest in Google Docs as a means to quickly resource useful commands and have a central location for everything that I need.
+
+Lastly, I began reading up on databases to understand how they work (and also begin to understand how the database is incorporated into the project). 
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
+This week, my highest priority is to get a deeper understanding of the program flow and see the purpose of each file. In turn, this will allow me to create more complex tests and analyze more critical functions/methods for the program. 
 
-> After my accomplishments from last week, I plan to add accessibility features to the user creation dialog box. \
-> I also plan on attending the git workshop this week.
+I would also like to continue reading on databases and perhaps create my own small data-scraping project as a means to improve my knowledge on the subject and potentially work on that side of hedgehogs in the coming weeks.
+
+Finally, I would like to create some tests for the data scraping that a couple of the other team members were working on if possible.
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> I don't know how to test the accessibility features I am going to be implementing this week, so i am going to \
-> ask my mentors if they have any suggestions.
+The only blocker is that I am unsure of the program flow (as there is not much documentation in the code) and this tremendously hinders my progress when creating tests as it is important (if not necessary) to understand the role of each file to create useful tests that test edge cases and so on.
 
 ## Notes
 
